@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+#mello {
+    list-style: none;
+    cursor: pointer;
+    z-index: 10;
+    position: fixed;
+    margin-left: 1200px;
+}
+.bruh {
+   float: left;
+   background-color: yellowgreen;
+   text-align: center;
+   color: lemonchiffon;
+}
+.whole {
+    background-color: chartreuse;
+    margin-top: 50px;
+}
+#hello {
+    font-size: 30px;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+#namaste {
+    font-family: 'Fuzzy Bubbles', cursive;
+    text-align: center;
+}
+#holla {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 30px;
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 500px;
+    margin: 2px auto;
+}
